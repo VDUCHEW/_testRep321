@@ -1,3 +1,3 @@
-
-1. Compile typescript - tsc
-2. Start server - node dist/server.js
+1. npm i
+2. tsc (compile typescript)
+3. node dist/server.js
